@@ -15,6 +15,7 @@ const sounds = {
     "shortSound7": "./sounds/shortSound7.mp3",
     "shortSound8": "./sounds/shortSound8.mp3",
     "shortSound9": "./sounds/piyo II.mp3",
+    "bye bye": "./sounds/bye bye.mp3",
     "shaking tail": "./sounds/shaking tail.mp3",
     "Phrase1": "./sounds/Phrase1.mp3",
     "Strange voice": "./sounds/Strange voice.mp3",
