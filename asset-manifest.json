@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/gumi-sounds-red-bird/static/css/main.31d6cfe0.css",
-    "main.js": "/gumi-sounds-red-bird/static/js/main.a170132e.js",
+    "main.js": "/gumi-sounds-red-bird/static/js/main.79044bef.js",
     "index.html": "/gumi-sounds-red-bird/index.html",
-    "main.a170132e.js.map": "/gumi-sounds-red-bird/static/js/main.a170132e.js.map"
+    "main.79044bef.js.map": "/gumi-sounds-red-bird/static/js/main.79044bef.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.a170132e.js"
+    "static/js/main.79044bef.js"
   ]
 }
