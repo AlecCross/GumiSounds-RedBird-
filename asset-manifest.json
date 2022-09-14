@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/gumi-sounds.pp.ua/static/css/main.31d6cfe0.css",
-    "main.js": "/gumi-sounds.pp.ua/static/js/main.9bb5af44.js",
-    "index.html": "/gumi-sounds.pp.ua/index.html",
-    "main.9bb5af44.js.map": "/gumi-sounds.pp.ua/static/js/main.9bb5af44.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.9bb5af44.js",
+    "index.html": "/index.html",
+    "main.9bb5af44.js.map": "/static/js/main.9bb5af44.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
